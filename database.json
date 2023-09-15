@@ -2,33 +2,18 @@
     "users": [
       {
         "id": 1,
-        "fullName": "Val",
-        "email": "Val@NSS.edu",
-        "isUser": true
+        "fullName": "Hellow",
+        "email": "Val@NSS.edu"
       },
       {
         "id": 2,
-        "fullName": "Dave",
-        "email": "Dave@NSS.edu",
-        "isUser": true
+        "fullName": "Dave Debonair",
+        "email": "Dave@NSS.edu"
       },
       {
         "id": 3,
-        "fullName": "Derek",
-        "email": "Derek@NSS.edu",
-        "isUser": true
-      },
-      {
-        "id": 4,
-        "fullName": "David Williams",
-        "email": "david@example.com",
-        "isUser": true
-      },
-      {
-        "id": 5,
-        "fullName": "Eva Davis",
-        "email": "eva@example.com",
-        "isUser": true
+        "fullName": "Derek Deli",
+        "email": "Derek@NSS.edu"
       }
     ],
     "workouts": [
@@ -37,35 +22,27 @@
         "title": "Neon Pulse",
         "description": "Push-ups 3 sets of reps until failure with 20-second rest in between sets. 3 sets of jumping jacks timed 45 seconds with 20-second breaks in between. Pull-ups until failure, 3 sets with 30-second rest between sets. 3 sets of squats until failure with 30-second breaks between each set.",
         "coinTotal": 10,
-        "isCompleted": false,
-        "isDeleted": false,
-        "typeName": "Intermediate"
+        "typeId": 2
       },
       {
         "id": 2,
         "title": "Cyber Circuit",
         "description": "5-minute brisk walk or jog. 3 sets of bodyweight squats, 10 reps each, with 15-second rest in between sets. 2 sets of planks, holding for 30 seconds, with 20-second rest in between sets.",
         "coinTotal": 5,
-        "isCompleted": false,
-        "isDeleted": false,
-        "typeName": "Beginner"
+        "typeId": 1
       },
       {
         "id": 3,
         "title": "Synthwave Sprint",
         "description": "High-intensity interval training (HIIT) circuit. 5 sets of burpees, 30 seconds on, 15 seconds off. 4 sets of mountain climbers, 45 seconds on, 20 seconds off. 3 sets of push-ups to failure with 25-second rest between sets. 4 sets of jumping lunges, 40 seconds on, 15 seconds off.",
         "coinTotal": 15,
-        "isCompleted": false,
-        "isDeleted": false,
-        "typeName": "Advanced"
+        "typeId": 3
       },
       {
         "id": 4,
         "title": "Galactic Grind",
         "description": "3 sets of planks, holding for 45 seconds, with 20-second rest in between sets. 4 sets of Russian twists, 15 reps each side, with 15-second rest between sets. 3 sets of bicycle crunches, 20 reps each side, with 20-second rest between sets.",
         "coinTotal": 10,
-        "isCompleted": false,
-        "isDeleted": false,
         "typeName": "Intermediate"
       },
       {
@@ -73,96 +50,79 @@
         "title": "Vaporwave Vortex",
         "description": "4 sets of squats, 12 reps each, with 30-second rest in between sets. 3 sets of lunges, 15 reps each leg, with 20-second rest between sets. 3 sets of calf raises, 20 reps each, with 25-second rest between sets.",
         "coinTotal": 10,
-        "isCompleted": false,
-        "isDeleted": false,
-        "typeName": "Intermediate"
+        "typeId": 2
       },
       {
         "id": 6,
         "title": "Pixel Pumper",
         "description": "5-minute brisk walk or jog. 2 sets of jumping jacks, 30 seconds each, with 15-second rest between sets. 2 sets of bodyweight squats, 12 reps each, with 20-second rest between sets.",
         "coinTotal": 5,
-        "isCompleted": false,
-        "isDeleted": false,
-        "typeName": "Beginner"
+        "typeId": 1
       },
       {
         "id": 7,
         "title": "Turbo Thrust",
         "description": "4 sets of push-ups, 15 reps each, with 25-second rest between sets. 3 sets of dumbbell curls, 12 reps each arm, with 20-second rest between sets. 3 sets of tricep dips, 15 reps each, with 20-second rest between sets.",
         "coinTotal": 10,
-        "isCompleted": false,
-        "isDeleted": false,
-        "typeName": "Intermediate"
+        "typeId": 2
       },
       {
         "id": 8,
         "title": "Retro Robustness",
         "description": "High-intensity interval training (HIIT) circuit. 5 sets of burpees, 30 seconds on, 15 seconds off. 4 sets of high knees, 45 seconds on, 20 seconds off. 3 sets of push-ups to failure with 25-second rest between sets. 4 sets of squat jumps, 40 seconds on, 15 seconds off.",
         "coinTotal": 15,
-        "isCompleted": false,
-        "isDeleted": false,
-        "typeName": "Advanced"
+        "typeId": 3
       },
       {
         "id": 9,
         "title": "Cassette Cardio",
         "description": "10-minute yoga session focusing on flexibility and relaxation. Includes poses such as Downward Dog, Child's Pose, and Warrior II. Suitable for all fitness levels.",
         "coinTotal": 5,
-        "isCompleted": false,
-        "isDeleted": false,
-        "typeName": "Beginner"
+        "typeId": 1
       },
       {
         "id": 10,
         "title": "Core Burnout",
         "description": "3 sets of planks, holding for 45 seconds, with 20-second rest in between sets. 4 sets of leg raises, 12 reps each, with 15-second rest between sets. 3 sets of bicycle crunches, 20 reps each side, with 20-second rest between sets.",
         "coinTotal": 10,
-        "isCompleted": false,
-        "isDeleted": false,
-        "typeName": "Intermediate"
+        "typeId": 2
       },
       {
         "id": 11,
         "title": "8-Bit Burn",
         "description": "4 sets of squats, 12 reps each, with 30-second rest in between sets. 3 sets of step-ups, 15 reps each leg, with 20-second rest between sets. 3 sets of calf raises, 20 reps each, with 25-second rest between sets.",
         "coinTotal": 10,
-        "isCompleted": false,
-        "isDeleted": false,
-        "typeName": "Intermediate"
+        "typeId": 2
       },
       {
         "id": 12,
         "title": "Future Fitness",
         "description": "2 sets of planks, holding for 30 seconds, with 20-second rest in between sets. 3 sets of sit-ups, 15 reps each, with 15-second rest between sets. 2 sets of leg raises, 12 reps each, with 20-second rest between sets.",
         "coinTotal": 5,
-        "isCompleted": false,
-        "isDeleted": false,
-        "typeName": "Beginner"
+        "typeId": 1
       },
       {
         "id": 13,
         "title": "Retro Renegade",
         "description": "5 sets of burpees, 30 seconds on, 15 seconds off. 4 sets of high knees, 45 seconds on, 20 seconds off. 3 sets of push-ups to failure with 25-second rest between sets. 4 sets of squat jumps, 40 seconds on, 15 seconds off.",
         "coinTotal": 10,
-        "isCompleted": false,
-        "isDeleted": false,
-        "typeName": "Intermediate"
+        "typeId": 2
       },
       {
         "id": 14,
         "title": "Electro Blasters",
         "description": "2 sets of push-ups, 10 reps each, with 25-second rest between sets. 3 sets of dumbbell curls, 12 reps each arm, with 20-second rest between sets. 3 sets of tricep dips, 15 reps each, with 20-second rest between sets.",
         "coinTotal": 10,
-        "isCompleted": false,
-        "isDeleted": false,
-        "typeName": "Beginner"
+        "typeId": 1
       }
       ],
     "Types": [
-       {"TypeName": "Beginner"},
-       {"TypeName": "Intermediate"},
-       {"TypeName": "Advanced"}
+       {"id" : 1,
+        "TypeName": "Beginner"},
+       {"id" : 2,
+        "TypeName": "Intermediate"},
+       {"id" : 3,
+        "TypeName": "Advanced"}
 
     ],
     "UserCompletedWorkouts": [
