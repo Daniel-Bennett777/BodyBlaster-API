@@ -116,7 +116,7 @@
         "typeId": 1
       }
       ],
-    "Types": [
+    "types": [
        {"id" : 1,
         "TypeName": "Beginner"},
        {"id" : 2,
@@ -125,7 +125,7 @@
         "TypeName": "Advanced"}
 
     ],
-    "UserCompletedWorkouts": [
+    "userCompletedWorkouts": [
 
     ]
   }
