@@ -2,13 +2,13 @@
   "users": [
     {
       "id": 1,
-      "fullName": "Hellow",
+      "fullName": "Val",
       "email": "Val@NSS.edu",
       "coinTotal": 0
     },
     {
       "id": 2,
-      "fullName": "Dave Berzack",
+      "fullName": "Ganandorf Dave",
       "email": "Dave@NSS.edu",
       "coinTotal": 0
     },
@@ -31,6 +31,12 @@
       "isUser": true,
       "id": 5,
       "coinTotal": 0
+    },
+    {
+      "email": "dave@gmail.com",
+      "fullName": "davey ",
+      "isUser": true,
+      "id": 6
     }
   ],
   "workouts": [
@@ -50,15 +56,6 @@
       "coinTotal": 5,
       "typeId": 1,
       "userId": 1,
-      "icCompleted": false
-    },
-    {
-      "id": 3,
-      "title": "Ganandorfs Power",
-      "description": "1000 jumping jacks, High-intensity interval training (HIIT) circuit. 5 sets of burpees, 30 seconds on, 15 seconds off. 4 sets of mountain climbers, 45 seconds on, 20 seconds off. 3 sets of push-ups to failure with 25-second rest between sets. 4 sets of jumping lunges, 40 seconds on, 15 seconds off.",
-      "coinTotal": 15,
-      "typeId": 3,
-      "userId": 2,
       "icCompleted": false
     },
     {
@@ -159,6 +156,27 @@
       "typeId": 1,
       "userId": 3,
       "icCompleted": false
+    },
+    {
+      "title": "Daniels Level ",
+      "description": "1 pushup, one pullup, one Nap 1 hour long at 12:00 noon ",
+      "coinTotal": "3",
+      "typeId": 1,
+      "id": 15
+    },
+    {
+      "title": "Test of Time ",
+      "description": "30 minute slow jog, 3 sets of 10 reps pushups, 20 sprints (10 yards each)",
+      "coinTotal": "10",
+      "typeId": "2",
+      "id": 16
+    },
+    {
+      "title": "Daveys workout ",
+      "description": "1000 pushups ",
+      "coinTotal": "10",
+      "typeId": "3",
+      "id": 17
     }
   ],
   "types": [
@@ -177,59 +195,69 @@
   ],
   "userCompletedWorkouts": [
     {
-      "id": 1,
-      "workoutId": 2,
-      "userId": 1,
-      "completedAt": "2023-09-18T10:00:00"
-    },
-    {
       "userId": 1,
       "workoutId": 2,
-      "id": 2,
-      "completedAt": "2023-09-18T10:00:02"
+      "id": 2
     },
     {
       "userId": 1,
       "workoutId": 2,
-      "id": 3,
-      "completedAt": "2023-08-18T10:00:05"
+      "id": 3
     },
     {
       "userId": 1,
       "workoutId": 11,
-      "id": 4,
-      "completedAt": "2023-07-18T10:00:09"
-    },
-    {
-      "userId": 2,
-      "workoutId": 3,
-      "id": 5,
-      "completedAt": "2023-07-18T10:00:08"
-
+      "id": 6
     },
     {
       "userId": 1,
       "workoutId": 11,
-      "id": 6,
-      "completedAt": "2023-02-18T10:00:02"
-    },
-    {
-      "userId": 1,
-      "workoutId": 11,
-      "id": 7,
-      "completedAt": "2023-01-18T10:00:02"
+      "id": 7
     },
     {
       "userId": 1,
       "workoutId": 6,
-      "id": 8,
-      "completedAt": "2023-06-18T10:00:02"
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "workoutId": 2,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "workoutId": 4,
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "workoutId": 12,
+      "id": 12
     },
     {
       "userId": 2,
-      "workoutId": 3,
-      "id": 9,
-      "completedAt": "2023-12-18T10:00:02"
+      "workoutId": 8,
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "workoutId": 2,
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "workoutId": 2,
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "workoutId": 6,
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "workoutId": 7,
+      "id": 17
     }
   ]
 }
