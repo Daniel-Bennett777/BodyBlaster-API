@@ -321,6 +321,15 @@
       "typeId": 3,
       "userId": 5,
       "icCompleted": false
+    },
+    {
+      "id": 31,
+      "title": "Speed Blitz",
+      "description": "10 rounds of 100-meter sprints, 60 seconds rest between rounds. 3 sets of lateral lunges, 15 reps each leg. 4 sets of jump squats, 12 reps each.",
+      "coinTotal": 10,
+      "typeId": 2,
+      "userId": 4,
+      "icCompleted": false
     }
   ],
   "types": [
