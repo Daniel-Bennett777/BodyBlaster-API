@@ -357,6 +357,15 @@
       "typeId": 2,
       "userId": 8,
       "icCompleted": false
+    },
+    {
+      "id": 35,
+      "title": "Cardio Inferno",
+      "description": "5 sets of burpees, 40 seconds on, 20 seconds off. 3 sets of mountain climbers, 45 seconds each. 3 sets of kettlebell swings, 15 reps each.",
+      "coinTotal": 10,
+      "typeId": 2,
+      "userId": 3,
+      "icCompleted": false
     }
   ],
   "types": [
