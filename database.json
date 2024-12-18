@@ -366,6 +366,15 @@
       "typeId": 2,
       "userId": 3,
       "icCompleted": false
+    },
+    {
+      "id": 36,
+      "title": "Core Titan",
+      "description": "4 sets of hanging leg raises, 12 reps each. 3 sets of Russian twists, 20 reps per side. 2 sets of planks, holding for 60 seconds.",
+      "coinTotal": 10,
+      "typeId": 1,
+      "userId": 6,
+      "icCompleted": false
     }
   ],
   "types": [
