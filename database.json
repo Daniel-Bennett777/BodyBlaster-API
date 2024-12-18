@@ -384,6 +384,15 @@
       "typeId": 1,
       "userId": 4,
       "icCompleted": false
+    },
+    {
+      "id": 38,
+      "title": "Leg Day Legend",
+      "description": "5 sets of Bulgarian split squats, 12 reps each leg. 3 sets of walking lunges, 20 steps per set. 4 sets of calf raises, 25 reps each.",
+      "coinTotal": 15,
+      "typeId": 3,
+      "userId": 7,
+      "icCompleted": false
     }
   ],
   "types": [
