@@ -376,6 +376,15 @@
       "userId": 6,
       "icCompleted": false
     },
+    {
+      "id": 37,
+      "title": "Upper Body Blitz",
+      "description": "4 sets of push-ups, 20 reps each. 3 sets of dumbbell curls, 12 reps each arm. 3 sets of tricep dips, 15 reps.",
+      "coinTotal": 10,
+      "typeId": 1,
+      "userId": 4,
+      "icCompleted": false
+    }
   ],
   "types": [
     {
