@@ -393,6 +393,15 @@
       "typeId": 3,
       "userId": 7,
       "icCompleted": false
+    },
+    {
+      "id": 39,
+      "title": "HIIT Hero",
+      "description": "5 rounds of 40 seconds jumping jacks, 20 seconds rest. 4 rounds of 30 seconds burpees, 15 seconds rest. 3 rounds of 45 seconds mountain climbers, 20 seconds rest.",
+      "coinTotal": 10,
+      "typeId": 2,
+      "userId": 3,
+      "icCompleted": false
     }
   ],
   "types": [
