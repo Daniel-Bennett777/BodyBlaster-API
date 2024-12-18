@@ -330,6 +330,15 @@
       "typeId": 2,
       "userId": 4,
       "icCompleted": false
+    },
+    {
+      "id": 32,
+      "title": "Zen Warrior",
+      "description": "15-minute yoga session with poses like Warrior I, Tree Pose, and Half Moon Pose. Ends with 5 minutes of meditation.",
+      "coinTotal": 5,
+      "typeId": 1,
+      "userId": 2,
+      "icCompleted": false
     }
   ],
   "types": [
