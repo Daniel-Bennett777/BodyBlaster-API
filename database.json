@@ -402,6 +402,15 @@
       "typeId": 2,
       "userId": 3,
       "icCompleted": false
+    },
+    {
+      "id": 40,
+      "title": "Power Peak",
+      "description": "3 sets of clean and jerks, 8 reps each. 4 sets of pull-ups, 10 reps each. 3 sets of weighted lunges, 12 reps each leg.",
+      "coinTotal": 20,
+      "typeId": 3,
+      "userId": 9,
+      "icCompleted": false
     }
   ],
   "types": [
