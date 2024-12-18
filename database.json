@@ -339,6 +339,15 @@
       "typeId": 1,
       "userId": 2,
       "icCompleted": false
+    },
+    {
+      "id": 33,
+      "title": "Muscle Meltdown",
+      "description": "5 sets of barbell squats, 10 reps each, with 90-second rest. 3 sets of overhead presses, 8 reps each. 4 sets of weighted pull-ups, 12 reps each.",
+      "coinTotal": 20,
+      "typeId": 3,
+      "userId": 7,
+      "icCompleted": false
     }
   ],
   "types": [
