@@ -348,6 +348,15 @@
       "typeId": 3,
       "userId": 7,
       "icCompleted": false
+    },
+    {
+      "id": 34,
+      "title": "Endurance Elite",
+      "description": "45-minute steady-state cycling. 4 sets of hill sprints on a treadmill, 30 seconds sprint, 2 minutes rest.",
+      "coinTotal": 15,
+      "typeId": 2,
+      "userId": 8,
+      "icCompleted": false
     }
   ],
   "types": [
